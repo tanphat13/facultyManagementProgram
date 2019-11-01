@@ -1,0 +1,950 @@
+1712345,NONG THI HANH,9/7/1987,"Huyen Luc Nam, Bac Giang"
+1712346,TRAN XUAN SON,10/22/1985,"Huyen Pho Yen, Thai Nguyen"
+1712347,PHAM THI TRANG,3/22/1987,"Huyen Dong Hy, Thai Nguyen"
+1712348,TRAN THI NGOC ANH,6/20/1985,"Huyen Phu Binh, Thai Nguyen"
+1712349,MA THI THU UYEN,11/22/1991,"Huyen Tran Yen, Yen Bai"
+1712350,DAO THI DUYEN,5/27/1988,"Huyen Phu Binh, Thai Nguyen"
+1712351,NONG THI SEN,10/26/1986,"Huyen Pho Yen, Thai Nguyen"
+1712352,LY THI THUYEN,4/6/1989,"Huyen Pho Yen, Thai Nguyen"
+1712353,DO THI HUE,6/13/1985,"Thi xa Song Cong, Thai Nguyen"
+1712354,DANG THE ANH,3/27/1989,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712355,NGUYEN HONG HANH,1/24/1989,"Huyen Phu Luong, Thai Nguyen"
+1712356,HOANG THI DINH,2/2/1991,"Huyen Phu Binh, Thai Nguyen"
+1712357,NGO THI LE HANG,3/20/1991,"Huyen Quynh Nhai, Son La"
+1712358,KHONG HUONG GIANG,12/11/1985,"Huyen Thuong Xuan, Thanh Hoa"
+1712359,DIEP THI HONG THUY,8/19/1985,"Thanh pho Bac Ninh, Bac Ninh"
+1712360,NGUYEN VAN DUY,3/11/1989,"Huyen Cam Thuy, Thanh Hoa"
+1712361,VU NHU QUYNH,3/27/1987,"Huyen Phu Luong, Thai Nguyen"
+1712362,PHUNG KHU PU,7/18/1987,"Huyen Dinh Hoa, Thai Nguyen"
+1712363,MA THI YEN NHI,7/7/1988,"Huyen Binh Lieu, Quang Ninh"
+1712364,DINH THUY NGAN,1/5/1988,"Huyen Pho Yen, Thai Nguyen"
+1712365,BANG THI DUYEN,12/17/1985,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712366,NGUYEN THI NGOC KHANH,12/17/1987,"Huyen Pho Yen, Thai Nguyen"
+1712367,NGUYEN QUYNH TRANG,2/5/1989,"Huyen Dai Tu, Thai Nguyen"
+1712368,DOI THI DIEU TIEN,2/6/1986,"Huyen Dai Tu, Thai Nguyen"
+1712369,HOANG HUYEN TRANG,3/19/1988,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712370,DO DINH DUY,11/17/1990,"Thi xa Song Cong, Thai Nguyen"
+1712371,NGUYEN HOANG HIEU,2/24/1989,"Huyen Lam Thao, Phu Tho"
+1712372,NGUYEN THI NHI,1/27/1988,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712373,NGO QUANG DUONG,2/20/1986,"Huyen Phu Luong, Thai Nguyen"
+1712374,MO THI THANH KIM HUE,1/16/1991,"Thi xa Song Cong, Thai Nguyen"
+1712375,MONG THI THU,9/13/1990,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712376,HOANG THI THU HANG,10/17/1985,"Huyen Dinh Hoa, Thai Nguyen"
+1712377,DANG THU HANH,4/17/1991,"Huyen Dong Hy, Thai Nguyen"
+1712378,DIEP THI LINH,11/2/1985,"Huyen Pho Yen, Thai Nguyen"
+1712379,HAN MINH HANG,10/7/1985,"Huyen Dai Tu, Thai Nguyen"
+1712380,NGUYEN DIEU LINH,10/8/1987,"Huyen Dai Tu, Thai Nguyen"
+1712381,LY MAI DUONG,5/21/1987,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712382,DANG THI LINH,4/19/1986,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712383,NGUYEN DOAN THAI HUNG,5/17/1991,"Thi xa Song Cong, Thai Nguyen"
+1712384,HOANG THI THANH PHUONG,8/17/1988,"Huyen Dong Hy, Thai Nguyen"
+1712385,TO TRUNG HIEU,3/14/1987,"Huyen Pho Yen, Thai Nguyen"
+1712386,NGUYEN THI HUONG,2/27/1989,"Huyen Phu Binh, Thai Nguyen"
+1712387,NINH THI HAI YEN,6/18/1985,"Huyen Yen Thuy, Hoa Binh"
+1712388,TA THI THU YEN,7/12/1990,"Huyen Bach Thong, Bac Kan"
+1712389,NGUYEN HA LINH HUE,10/16/1987,"Huyen Kim Boi, Hoa Binh"
+1712390,NGUYEN HONG HANH,1/12/1985,"Huyen Dong Hy, Thai Nguyen"
+1712391,NGUYEN PHUONG UYEN,12/11/1989,"Huyen Cao Loc, Lang Son"
+1712392,THI THI HUONG ANH,9/13/1989,"Huyen Phu Binh, Thai Nguyen"
+1712393,VU THI THUY CHIEN,6/5/1988,"Huyen Luc Nam, Bac Giang"
+1712394,LUAN THI YEN,10/19/1987,"Huyen Pho Yen, Thai Nguyen"
+1712395,NGUYEN THI HAI YEN,11/19/1989,"Huyen Dinh Lap, Lang Son"
+1712396,HOANG THI HUONG,11/9/1986,"Huyen Viet Yen, Bac Giang"
+1712397,DUONG THUY TRANG,1/27/1990,"Huyen Yen Binh, Yen Bai"
+1712398,VU HONG NGAT,2/21/1988,"Huyen Chuong My, Ha Noi"
+1712399,HOANG THI DUNG,6/5/1985,"Huyen Ngoc Lac, Thanh Hoa"
+1712400,VUONG THI NHUNG,5/9/1990,"Thanh pho Bac Ninh, Bac Ninh"
+1712401,HO THI QUYNH ANH,3/14/1989,"Huyen Phu Luong, Thai Nguyen"
+1712402,DONG THI THANH TU,12/10/1986,"Huyen Dai Tu, Thai Nguyen"
+1712403,PHAM THU TRA,2/10/1988,"Huyen Que Vo, Bac Ninh"
+1712404,LUONG THI LAN,4/20/1986,"Huyen Nong Cong, Thanh Hoa"
+1712405,NGUYEN THI KIM OANH,10/15/1987,"Huyen Phu Binh, Thai Nguyen"
+1712406,VU THI THU,2/2/1988,"Huyen Pho Yen, Thai Nguyen"
+1712407,PHAN THI HOA,9/2/1988,"Thanh pho Phu Ly, Ha Nam"
+1712408,PHAM NGOC LINH,9/17/1986,"Huyen Pho Yen, Thai Nguyen"
+1712409,NGUYEN TRA MY,11/18/1990,"Huyen Bac Quang, Ha Giang"
+1712410,SAM THI HONG NGOC,11/4/1988,"Huyen Phong Tho, Lai Chau"
+1712411,KIEU THI THANH TUYET,3/21/1989,"Huyen Dinh Hoa, Thai Nguyen"
+1712412,PHAM QUANG HUY,6/28/1985,"Huyen Tien Du, Bac Ninh"
+1712413,TRINH THU HUONG,2/19/1991,"Huyen Viet Yen, Bac Giang"
+1712414,HOANG THI TAM,5/28/1989,"Huyen Na Ri, Bac Kan"
+1712415,NGUYEN THI HUYEN,11/27/1990,"Thi xa Song Cong, Thai Nguyen"
+1712416,BUI THI THANH THAO,7/25/1989,"Huyen Pho Yen, Thai Nguyen"
+1712417,TONG MINH DUYEN,12/14/1985,"Huyen Pho Yen, Thai Nguyen"
+1712418,DUONG THI THU HUONG,9/1/1989,"Huyen Dong Hy, Thai Nguyen"
+1712419,TRAN THI HONG,1/26/1990,"Huyen Phu Binh, Thai Nguyen"
+1712420,PHAM THI HAI ANH,8/19/1990,"Huyen Yen Son, Tuyen Quang"
+1712421,PHAM THI BICH NHAT,6/17/1986,"Thanh pho Lang Son, Lang Son"
+1712422,LE THI HONG NHUNG,8/18/1987,"Thi xa Song Cong, Thai Nguyen"
+1712423,LUONG THAO VAN,7/19/1986,"Huyen Son Dong, Bac Giang"
+1712424,LE TRONG DAT,7/26/1986,"Huyen Phu Binh, Thai Nguyen"
+1712425,MA THU DOAN,7/3/1985,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712426,PHAM THUY BICH,9/9/1986,"Huyen Chi Lang, Lang Son"
+1712427,TRAN THI MY BINH,8/10/1985,"Huyen Bao Lam, Cao Bang"
+1712428,NGUYEN THUY LINH,10/19/1988,"Huyen Pho Yen, Thai Nguyen"
+1712429,TRIEU THI THUY QUYNH,12/23/1990,"Huyen Muong Te, Lai Chau"
+1712430,VU THI DUNG,3/8/1985,"Huyen Mai Son, Son La"
+1712431,NGUYEN THI KHANH HOA,2/15/1985,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712432,NGUYEN THI PHUONG,9/1/1986,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712433,LUONG THI LE,11/28/1987,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712434,NGUYEN THI DUYEN,11/19/1989,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712435,DO THI DIEM QUYNH,4/22/1989,"Huyen Cho Moi, Bac Kan"
+1712436,VO THI THU UYEN,11/26/1989,"Thanh pho Lao Cai, Lao Cai"
+1712437,HOANG VAN ANH,1/14/1988,"Huyen Quang Xuong, Thanh Hoa"
+1712438,NGO THI LINH,9/7/1989,"Huyen Dinh Hoa, Thai Nguyen"
+1712439,NGUYEN THUY LINH,7/3/1991,"Huyen Dong Hy, Thai Nguyen"
+1712440,PHAM THI BICH DAO,10/3/1986,"Huyen Vo Nhai, Thai Nguyen"
+1712441,DUONG THU HUYEN,10/17/1989,"Thanh pho Yen Bai, Yen Bai"
+1712442,THAN PHUONG THAO,2/10/1988,"Thi xa Song Cong, Thai Nguyen"
+1712443,PHAM THI NGA,7/24/1985,"Huyen Pho Yen, Thai Nguyen"
+1712444,NGUYEN THI THU NHAI,1/6/1985,"Huyen Dinh Hoa, Thai Nguyen"
+1712445,NGUYEN MINH PHUONG,1/22/1987,"Huyen Dai Tu, Thai Nguyen"
+1712446,NGUYEN THI LAN HUONG,2/24/1990,"Huyen Phu Binh, Thai Nguyen"
+1712447,NONG THUY TIEN,9/13/1987,"Huyen Pho Yen, Thai Nguyen"
+1712448,BANG THI KHANH TAM,2/11/1985,"Huyen Tan Yen, Bac Giang"
+1712449,LE QUE ANH,6/15/1988,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712450,NGUYEN THI HA CHI,3/23/1989,"Huyen Dong Hy, Thai Nguyen"
+1712451,HOANG THI KIEU MY,11/21/1987,"Huyen Si Ma Cai, Lao Cai"
+1712452,DUONG THI THAM,8/8/1987,"Thi xa Song Cong, Thai Nguyen"
+1712453,NGUYEN THI HUYEN CHAM,12/8/1987,"Thi xa Song Cong, Thai Nguyen"
+1712454,DUONG THI HONG NHUNG,4/5/1989,"Huyen Pho Yen, Thai Nguyen"
+1712455,TA QUYNH TRANG,8/24/1988,"Huyen Dong Hy, Thai Nguyen"
+1712456,NGUYEN THI BE,12/15/1988,"Huyen Bach Thong, Bac Kan"
+1712457,HA KIEU THUONG,10/6/1985,"Huyen Phu Luong, Thai Nguyen"
+1712458,TO THI THU HA,7/17/1991,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712459,SAM THI HANH,2/11/1987,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712460,GIA THI DUONG,11/25/1985,"Huyen Phu Binh, Thai Nguyen"
+1712461,CHU THI THU HIEN,12/4/1985,"Huyen Phu Binh, Thai Nguyen"
+1712462,TRAN THU HA,5/12/1990,"Huyen Dinh Hoa, Thai Nguyen"
+1712463,NGUYEN LAN HUONG,2/24/1989,"Huyen Dai Tu, Thai Nguyen"
+1712464,NGUYEN THI TUYEN,12/10/1991,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712465,DANG QUYNH NHU,6/14/1985,"Thi xa Song Cong, Thai Nguyen"
+1712466,NGUYEN THI QUYNH TRANG,7/26/1991,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712467,NGUYEN LE QUYEN,4/5/1988,"Huyen Phu Luong, Thai Nguyen"
+1712468,NGUYEN THI HOAI,7/10/1988,"Thi xa Song Cong, Thai Nguyen"
+1712469,TRAN THI HANG,10/9/1991,"Huyen Dong Hy, Thai Nguyen"
+1712470,NGUYEN THU HUYEN,1/28/1986,"Huyen Vo Nhai, Thai Nguyen"
+1712471,DAO THANH LOAN,11/12/1986,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712472,NGUYEN THI CHUYEN,2/26/1985,"Th. pho Tuyen Quang, Tuyen Quang"
+1712473,HOANG THU TRANG,2/2/1985,"Huyen Dong Hy, Thai Nguyen"
+1712474,HOANG THI CAM,9/22/1987,"Huyen Vo Nhai, Thai Nguyen"
+1712475,NONG VAN DAT,1/24/1985,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712476,TRINH TRUNG ANH,9/11/1986,"Thanh pho Bac Kan, Bac Kan"
+1712477,NGO THI HUONG,8/16/1986,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712478,MA THI THUY,11/23/1990,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712479,TRAN VAN ANH,4/15/1986,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712480,NGUYEN THI THU UYEN,5/15/1989,"Thi xa Song Cong, Thai Nguyen"
+1712481,HOANG THI MY MY,1/2/1986,"Thi xa Song Cong, Thai Nguyen"
+1712482,KIEU THU HUYEN,12/8/1986,"Huyen Dinh Hoa, Thai Nguyen"
+1712483,NGUYEN NGOC ANH,8/26/1991,"Thi xa Song Cong, Thai Nguyen"
+1712484,DAO THI HOA,4/13/1990,"Huyen Dong Hy, Thai Nguyen"
+1712485,PHAM MAI ANH,11/20/1985,"Huyen Phu Luong, Thai Nguyen"
+1712486,NGUYEN THI THU PHUONG,12/25/1985,"Huyen Dai Tu, Thai Nguyen"
+1712487,PHAN THI THANH HOA,6/13/1985,"Huyen Dai Tu, Thai Nguyen"
+1712488,NGO HUU DAT,4/6/1988,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712489,HOANG THI THAO,3/16/1989,"Huyen Phu Binh, Thai Nguyen"
+1712490,HA THI KIM THU,10/24/1987,"Thanh pho Cao Bang, Cao Bang"
+1712491,LENG THI CUC,3/26/1988,"Thi xa Song Cong, Thai Nguyen"
+1712492,LONG THI TIEN,3/10/1989,"Huyen Phu Luong, Thai Nguyen"
+1712493,NGUYEN HA LAM,9/16/1987,"Huyen Soc Son, Ha Noi"
+1712494,TRAN THI ANH THU,8/1/1985,"Huyen Thong Nong, Cao Bang"
+1712495,TA DINH HOANG HUY,6/7/1985,"Huyen Pho Yen, Thai Nguyen"
+1712496,NGO THANH PHUONG,2/17/1987,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712497,DO HONG THUY,2/20/1989,"Huyen Dai Tu, Thai Nguyen"
+1712498,NGUYEN THI ANH,5/13/1990,"Huyen Phong Tho, Lai Chau"
+1712499,TRAN THUY HUONG,12/7/1991,"Huyen Van Lam, Hung Yen"
+1712500,NGUYEN THI LAN ANH,12/26/1986,"Thanh pho Bac Kan, Bac Kan"
+1712501,NGUYEN THI THU HA,10/2/1991,"Thanh pho Bac Kan, Bac Kan"
+1712502,NGUYEN THI TUYET HOA,5/12/1989,"Huyen Dong Anh, Ha Noi"
+1712503,NGO HUONG LOAN,7/27/1988,"Huyen Phu Luong, Thai Nguyen"
+1712504,SAM HOANG THU NIEM,9/24/1986,"Huyen Trung Khanh, Cao Bang"
+1712505,BAN THI HUONG,10/6/1988,"Huyen Xin Man, Ha Giang"
+1712506,LY NGOC HUNG,2/9/1989,"Huyen Tran Yen, Yen Bai"
+1712507,HOANG THU TRANG,12/20/1986,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712508,NGUYEN TRUNG HAI,6/15/1985,"Huyen Phu Luong, Thai Nguyen"
+1712509,VI THI MY,3/25/1990,"Huyen Yen Khanh, Ninh Binh"
+1712510,DANG THI QUYNH,6/21/1991,"Huyen Cho Moi, Bac Kan"
+1712511,NGUYEN THI THUAN,5/7/1990,"Huyen Mu Cang Chai, Yen Bai"
+1712512,DANG THI TRA GIANG,7/22/1989,"Huyen Cho Moi, Bac Kan"
+1712513,PHAM THIEN DUC,1/15/1990,"Huyen Phu Luong, Thai Nguyen"
+1712514,NGUYEN DIEU LINH,3/5/1990,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712515,NGUYEN THU THUY,5/23/1987,"Huyen Ham Yen, Tuyen Quang"
+1712516,HOANG YEN,7/1/1989,"Huyen Ham Yen, Tuyen Quang"
+1712517,DAO NGOC ANH,4/19/1985,"Huyen Na Ri, Bac Kan"
+1712518,NGUYEN THI HUYEN PHUONG,3/25/1987,"Huyen Dong Hy, Thai Nguyen"
+1712519,PHAM THI YEN,8/19/1989,"Huyen Dam Ha, Quang Ninh"
+1712520,PHAM THI THU HANH,1/13/1988,"Huyen Phu Luong, Thai Nguyen"
+1712521,DOAN THI NGA,3/9/1989,"Quan Ba Dinh, Ha Noi"
+1712522,NGUYEN THI THU THUY,4/1/1986,"Huyen Dong Hy, Thai Nguyen"
+1712523,NGUYEN THI TUYEN,12/9/1985,"Huyen Tinh Gia, Thanh Hoa"
+1712524,TRAN NGOC MAI,12/1/1985,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712525,LY HAI LINH,3/3/1986,"Huyen Bach Thong, Bac Kan"
+1712526,PHAM NGOC TU,3/24/1987,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712527,BUI THI QUY,4/9/1987,"Huyen Phu Binh, Thai Nguyen"
+1712528,NGUYEN THI THANH TUYEN,7/14/1988,"Huyen Phu Luong, Thai Nguyen"
+1712529,NGUYEN THI HUYEN TRANG,4/19/1991,"Huyen Van Quan, Lang Son"
+1712530,NGUYEN THI MINH KHUE,2/21/1985,"Huyen Hoa Lu, Ninh Binh"
+1712531,DUONG THU THAO,5/7/1986,"Huyen Trung Khanh, Cao Bang"
+1712532,TRAN TIEN ANH,6/23/1988,"Huyen Dong Hy, Thai Nguyen"
+1712533,NGUYEN THI HUYEN,11/2/1990,"Huyen Cho Moi, Bac Kan"
+1712534,NGUYEN THI TRA,5/28/1991,"Huyen Pho Yen, Thai Nguyen"
+1712535,DAO THI MAI,11/9/1988,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712536,NGUYEN THI SEN,4/7/1986,"Huyen Cao Loc, Lang Son"
+1712537,DONG THI LIEN,4/22/1989,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712538,NGUYEN THI THUY LINH,12/4/1989,"Huyen Pho Yen, Thai Nguyen"
+1712539,NGUYEN THI NGOC OANH,2/10/1989,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712540,SAM THI UYEN,8/3/1985,"Huyen Quang Binh, Ha Giang"
+1712541,LY KHU DE,6/21/1988,"Huyen Phu Luong, Thai Nguyen"
+1712542,TRAN TRONG KY,8/10/1985,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712543,LE THI PHUONG,11/8/1987,"Thanh pho Bac Kan, Bac Kan"
+1712544,LE THI HAI YEN,1/21/1985,"Huyen Pho Yen, Thai Nguyen"
+1712545,DO QUYNH LY,10/5/1989,"Thi xa Song Cong, Thai Nguyen"
+1712546,NGUYEN THI QUYNH TRANG,11/23/1985,"Huyen Phu Binh, Thai Nguyen"
+1712547,DUONG THU HOAI,2/13/1985,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712548,NGUYEN THU PHUONG,12/2/1991,"Thanh pho Bac Kan, Bac Kan"
+1712549,TRAN THI THEM,8/8/1991,"Huyen  Bao Thang, Lao Cai"
+1712550,TRUONG THI HUONG,9/1/1985,"Huyen Pho Yen, Thai Nguyen"
+1712551,LUC THUY LINH,7/28/1991,"Huyen Phu Luong, Thai Nguyen"
+1712552,MA THI CHIEU,1/12/1991,"Thi xa Song Cong, Thai Nguyen"
+1712553,NONG THU HUONG,12/11/1989,"Thi xa Song Cong, Thai Nguyen"
+1712554,NGHIEM THU HUYEN,8/8/1985,"Huyen Pho Yen, Thai Nguyen"
+1712555,HA THI THAM,10/13/1991,"Huyen Pho Yen, Thai Nguyen"
+1712556,NONG THI KHANH LINH,5/6/1987,"Thanh pho Yen Bai, Yen Bai"
+1712557,DANG THI LAN ANH,6/26/1987,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712558,NGUYEN THI TU ANH,10/16/1988,"Huyen Pho Yen, Thai Nguyen"
+1712559,LE THI GIANG,11/7/1991,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712560,NGUYEN MINH ANH,7/26/1988,"Huyen Dai Tu, Thai Nguyen"
+1712561,HOANG THI THU HIEN,11/10/1989,"Huyen Dinh Hoa, Thai Nguyen"
+1712562,CAN THI THU HIEN,2/3/1985,"Huyen Pho Yen, Thai Nguyen"
+1712563,DANG MY LINH,3/23/1989,"Huyen Pho Yen, Thai Nguyen"
+1712564,NGUYEN THI HUYEN TRANG,7/28/1989,"Huyen Pho Yen, Thai Nguyen"
+1712565,NONG THI LOAN,9/2/1985,"Huyen Pho Yen, Thai Nguyen"
+1712566,LY THI UYEN,8/21/1985,"Huyen Pho Yen, Thai Nguyen"
+1712567,HA KIEU OANH,9/24/1989,"Huyen Son Duong, Tuyen Quang"
+1712568,NONG THI HUYEN,1/25/1991,"Huyen Pho Yen, Thai Nguyen"
+1712569,DUONG THI KHANH,8/17/1987,"Thi xa Song Cong, Thai Nguyen"
+1712570,HOANG YEN NHI,10/18/1991,"Huyen Muong Khuong, Lao Cai"
+1712571,MA THI LAN,11/28/1988,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712572,NGUYEN LAN ANH,9/9/1991,"Huyen Pho Yen, Thai Nguyen"
+1712573,PHAM HANH HOA,10/2/1987,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712574,DOAN VU LY,7/22/1985,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712575,MA THI HA THUONG,7/16/1989,"Huyen Dong Hy, Thai Nguyen"
+1712576,NGO THI VAN ANH,11/6/1987,"Huyen Dinh Hoa, Thai Nguyen"
+1712577,NGUYEN THI HUYEN ANH,1/28/1990,"Huyen Phu Binh, Thai Nguyen"
+1712578,PHAM THI THUY TRANG,12/19/1990,"Huyen Dinh Hoa, Thai Nguyen"
+1712579,NGUYEN THI HANG,10/1/1987,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712580,KHUC THI THU THUY,7/7/1991,"Huyen Dong Hy, Thai Nguyen"
+1712581,TRUONG THI THUY VAN,9/13/1989,"Huyen Hiep Hoa, Bac Giang"
+1712582,TRAN THI LINH,10/23/1986,"Huyen Dai Tu, Thai Nguyen"
+1712583,NGUYEN THI THU QUYNH,7/3/1987,"Huyen Dai Tu, Thai Nguyen"
+1712584,NGUYEN THI HOA,5/24/1987,"Huyen Phu Luong, Thai Nguyen"
+1712585,TRAN THI PHUONG ANH,1/23/1989,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712586,HA THI HUYEN,2/22/1988,"Huyen Pho Yen, Thai Nguyen"
+1712587,DANH THI MAI,3/5/1987,"Huyen Da Bac, Hoa Binh"
+1712588,DO MINH THU,11/20/1988,"Huyen Pho Yen, Thai Nguyen"
+1712589,BUI PHUONG NHAT,6/23/1985,"Thi xa Song Cong, Thai Nguyen"
+1712590,BUI THI THU PHUONG,2/2/1986,"Huyen Pho Yen, Thai Nguyen"
+1712591,TRUONG THI HANG NGA,12/5/1985,"Huyen Dong Hung, Thai Binh"
+1712592,DANG THI HOI,3/12/1989,"Huyen Dai Tu, Thai Nguyen"
+1712593,HOANG THI UYEN,4/10/1989,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712594,TRAN THI NHU QUYNH,1/27/1985,"Huyen Nam Truc, Nam Dinh"
+1712595,NGUYEN VAN ANH,3/22/1991,"Huyen Pho Yen, Thai Nguyen"
+1712596,LE PHUC THANG,10/3/1991,"Thanh pho Bac Kan, Bac Kan"
+1712597,NGUYEN THI PHUONG,11/18/1991,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712598,NGUYEN THI THUY DUNG,4/6/1986,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712599,HOANG HANH CHI,5/27/1990,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712600,VU NGOC DUONG,9/14/1990,"Huyen Dai Tu, Thai Nguyen"
+1712601,HOANG THI DIEU LINH,11/23/1989,"Huyen Gia Vien, Ninh Binh"
+1712602,LE BICH DAO,12/11/1986,"Huyen Pho Yen, Thai Nguyen"
+1712603,LE PHUONG HUE,7/20/1990,"Huyen Pho Yen, Thai Nguyen"
+1712604,NGUYEN THI HUE,1/16/1988,"Huyen Na Ri, Bac Kan"
+1712605,TRINH THI NGOC,11/18/1986,"Huyen Dong Hy, Thai Nguyen"
+1712606,NGUYEN THI HAI YEN,8/28/1985,"Huyen Vo Nhai, Thai Nguyen"
+1712607,DONG THI THU UYEN,12/9/1985,"Huyen Vu Ban, Nam Dinh"
+1712608,HOANG THI TUYET,9/14/1986,"Huyen Van Chan, Yen Bai"
+1712609,TRAN THI TUYET NHUNG,10/20/1985,"Thi xa Song Cong, Thai Nguyen"
+1712610,NGUYEN XUAN DUC,9/28/1986,"Thanh pho Cao Bang, Cao Bang"
+1712611,TRUONG PHAN QUYNH,10/12/1990,"Thanh pho Cao Bang, Cao Bang"
+1712612,BAN THI DIEN,10/8/1986,"Huyen Bach Thong, Bac Kan"
+1712613,LE THI THAO NGUYEN,6/14/1989,"Huyen Phu Luong, Thai Nguyen"
+1712614,LUONG THI THU HUONG,8/12/1991,"Huyen Vinh Loc, Thanh Hoa"
+1712615,NGUYEN THUY NGAN,5/9/1991,"Huyen Dai Tu, Thai Nguyen"
+1712616,TAY THI HOA,3/25/1987,"Huyen Tra Linh, Cao Bang"
+1712617,NGUYEN THU HA,12/4/1987,"Thanh pho Ha Giang, Ha Giang"
+1712618,NGUYEN THI THANH HUYEN,5/18/1987,"Huyen Dinh Hoa, Thai Nguyen"
+1712619,DUONG THI THU,8/24/1991,"Huyen Dinh Hoa, Thai Nguyen"
+1712620,LE VU THU HUYEN,3/12/1989,"Huyen Na Ri, Bac Kan"
+1712621,LUU THI THUY HUONG,5/16/1989,"Thi xa Song Cong, Thai Nguyen"
+1712622,HA THI MINH TRANG,10/20/1989,"Huyen Cho Don, Bac Kan"
+1712623,TRAN THI HIEN,2/13/1987,"Huyen Ngan Son, Bac Kan"
+1712624,HOANG THI HOA,4/24/1987,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712625,BUI DIEM QUYNH,3/5/1990,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712626,TRAN TUNG LAM,12/27/1990,"Huyen Vo Nhai, Thai Nguyen"
+1712627,NGUYEN THI YEN,12/14/1987,"Huyen Na Ri, Bac Kan"
+1712628,TRIEU THI THAM,5/9/1990,"Thi xa Song Cong, Thai Nguyen"
+1712629,CHU THI HONG,2/18/1989,"Huyen Vo Nhai, Thai Nguyen"
+1712630,HOANG CONG DUC HOAN,11/25/1988,"Thanh pho Son La, Son La"
+1712631,NGUYEN HUONG LY,8/23/1987,"Huyen Phu Binh, Thai Nguyen"
+1712632,LUONG THI GIENG,2/3/1987,"Thi xa Song Cong, Thai Nguyen"
+1712633,TRIEU THI VE,12/11/1990,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712634,DOAN THI LAN ANH,8/12/1988,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712635,DANG LE MINH DUC,11/12/1986,"Thi xa Song Cong, Thai Nguyen"
+1712636,NGUYEN THI THU THUY,7/17/1991,"Thanh pho Cam Pha, Quang Ninh"
+1712637,NGO THI THAO,1/10/1991,"Huyen Bao Lac, Cao Bang"
+1712638,VU LE QUYNH,3/10/1985,"Huyen Lam Binh, Tuyen Quang"
+1712639,DINH THI THAO NGAN,11/22/1990,"Huyen Xin Man, Ha Giang"
+1712640,KIM THAO NGUYEN,1/5/1986,"Huyen Cho Don, Bac Kan"
+1712641,TRAN THUY THAO,2/5/1987,"Huyen Dien Bien, Dien Bien"
+1712642,HA THI HONG NHUNG,3/25/1990,"Huyen Bac Quang, Ha Giang"
+1712643,NGUYEN THI CHIEM,5/1/1987,"Huyen Bac Quang, Ha Giang"
+1712644,HOANG THI THAO LY,7/13/1989,"Thi xa Song Cong, Thai Nguyen"
+1712645,LE DINH TIEN,1/27/1989,"Huyen Dai Tu, Thai Nguyen"
+1712646,TRAN HUONG THAO,4/27/1988,"Huyen Bao Lac, Cao Bang"
+1712647,QUACH THAO PHUONG,1/24/1990,"Huyen Thuy Nguyen , Hai Phong"
+1712648,TA THI OANH,11/19/1987,"Thi xa Chi Linh, Hai Duong"
+1712649,MAI THI YEN,12/19/1989,"Thanh pho Vinh Yen, Vinh Phuc"
+1712650,NGUYEN THI KIM NGAN,10/4/1989,"Huyen Dinh Hoa, Thai Nguyen"
+1712651,TA BICH LOAN,12/14/1990,"Huyen Yen Khanh, Ninh Binh"
+1712652,DAM THI TRANG,8/25/1989,"Huyen Dinh Hoa, Thai Nguyen"
+1712653,HOANG THI MAO,4/26/1986,"Huyen Pho Yen, Thai Nguyen"
+1712654,PHAM VAN CONG,7/8/1989,"Huyen Dong Hy, Thai Nguyen"
+1712655,DUONG THI TINH,1/17/1991,"Huyen Lap Thach, Vinh Phuc"
+1712656,DAO TRONG TAN,11/26/1991,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712657,NGUYEN THI DIU,4/21/1988,"Huyen Chi Lang, Lang Son"
+1712658,LY THU UYEN,10/9/1991,"Huyen Trung Khanh, Cao Bang"
+1712659,HOANG THI HIEN LUONG,11/20/1987,"Huyen Phu Binh, Thai Nguyen"
+1712660,NGUYEN THI THU HA,12/21/1987,"Huyen Son Dong, Bac Giang"
+1712661,TRAN THI HOANG HUONG,9/21/1985,"Thanh pho Thanh Hoa, Thanh Hoa"
+1712662,NGUYEN CAO CUONG,11/4/1987,"Huyen Dai Tu, Thai Nguyen"
+1712663,NGUYEN HAI LINH,1/3/1988,"Huyen Hiep Hoa, Bac Giang"
+1712664,NGUYEN THI HUYEN LUONG,4/6/1989,"Huyen Phu Binh, Thai Nguyen"
+1712665,LUONG DINH ANH,10/23/1989,"Huyen Phu Luong, Thai Nguyen"
+1712666,PHAM THI HOANG NGOC,3/22/1991,"Huyen Bao Lac, Cao Bang"
+1712667,NGUYEN THI PHUONG,1/15/1987,"Huyen  Bao Thang, Lao Cai"
+1712668,HOANG THI QUYNH,7/12/1991,"Thi xa Song Cong, Thai Nguyen"
+1712669,HA THI LE THI,4/7/1987,"Thi xa Phu Tho, Phu Tho"
+1712670,TRAN THI THANH HOA,6/23/1989,"Huyen Pho Yen, Thai Nguyen"
+1712671,VU THI HUYEN TRANG,5/14/1985,"Huyen Chuong My, Ha Noi"
+1712672,DUONG THUY HANG,2/9/1989,"Huyen Phu Luong, Thai Nguyen"
+1712673,PHAM THI NHUNG,5/26/1985,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712674,NGUYEN THI MY LINH,9/1/1985,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712675,NGUYEN THI PHUONG MAI,8/14/1990,"Thi xa Song Cong, Thai Nguyen"
+1712676,TONG KHANH LINH,11/16/1986,"Huyen Pho Yen, Thai Nguyen"
+1712677,LUONG THI HANH,9/22/1987,"Huyen Ngan Son, Bac Kan"
+1712678,HOANG THI HANH,6/23/1991,"Huyen Na Ri, Bac Kan"
+1712679,HOANG THI PHUONG THAO,6/22/1986,"Huyen Van Quan, Lang Son"
+1712680,HOANG THI NGAN,4/22/1988,"Huyen Pho Yen, Thai Nguyen"
+1712681,HOANG THI DAI TRANG,9/27/1985,"Huyen Pho Yen, Thai Nguyen"
+1712682,NGO THI HONG NHUNG,2/25/1991,"Huyen Ngan Son, Bac Kan"
+1712683,TRINH PHUONG HUY,1/4/1986,"Thanh pho Cao Bang, Cao Bang"
+1712684,HOANG THUY LINH,12/17/1986,"Huyen Phu Binh, Thai Nguyen"
+1712685,NGO THI THU TRA,11/20/1986,"Thi xa Muong Lay, Dien Bien"
+1712686,DAO VIET ANH,4/18/1987,"Huyen Mai Chau, Hoa Binh"
+1712687,NGUYEN THI UYEN,1/12/1986,"Huyen Ngan Son, Bac Kan"
+1712688,NGUYEN HOANG ANH,2/15/1987,"Huyen Pho Yen, Thai Nguyen"
+1712689,DUONG THUY LINH,1/21/1988,"Huyen Bac Ha, Lao Cai"
+1712690,NGUYEN THI THU,5/2/1986,"Huyen Quang Uyen, Cao Bang"
+1712691,TRAN THI BICH VAN,9/7/1989,"Huyen Song Ma, Son La"
+1712692,TRAN THI THANH XUAN,7/9/1990,"Huyen Dien Bien, Dien Bien"
+1712693,NGO THI HUYEN CHAM,9/11/1991,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712694,TRUONG THI HOA,2/6/1991,"Huyen Pho Yen, Thai Nguyen"
+1712695,LY THI HUONG NHUNG,1/1/1989,"Huyen Dinh Hoa, Thai Nguyen"
+1712696,HOANG THI HUYEN TRANG,10/17/1990,"Huyen Chi Lang, Lang Son"
+1712697,PHAM THI MI,7/19/1987,"Huyen Dinh Lap, Lang Son"
+1712698,NGUYEN THI THU HUONG,6/24/1989,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712699,NGUYEN THI THUY LINH,2/1/1990,"Huyen Thuong Tin, Ha Noi"
+1712700,HOANG VAN TUNG,6/8/1991,"Huyen Bach Thong, Bac Kan"
+1712701,NGUYEN PHUONG THAO,12/20/1987,"Thanh pho Nam Dinh, Nam Dinh"
+1712702,NGO THI HA,5/16/1990,"Huyen Nghi Loc, Nghe An"
+1712703,LE PHUONG QUYNH,5/17/1985,"Huyen Dinh Hoa, Thai Nguyen"
+1712704,NGUYEN THI NGOC,12/18/1990,"Thanh pho Lang Son, Lang Son"
+1712705,PHAM THI THU HANG,7/18/1990,"Huyen  Sa Pa, Lao Cai"
+1712706,NGUYEN THI CANH,4/27/1987,"Huyen Yen Binh, Yen Bai"
+1712707,DUONG THI THAO,2/12/1989,"Huyen Ham Yen, Tuyen Quang"
+1712708,NGUYEN THI TRANG,5/21/1987,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712709,DUONG MINH DUC,12/4/1989,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712710,PHAM QUANG HUY,9/21/1990,"Huyen Tra Linh, Cao Bang"
+1712711,NGO NGAN THAO,7/1/1987,"Huyen Thuan Chau, Son La"
+1712712,NGUYEN VAN DUONG,10/17/1989,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712713,PHAM KIEU OANH,2/28/1988,"Huyen Thuan Chau, Son La"
+1712714,NGUYEN THI MINH HANG,4/28/1987,"Huyen Dong Hy, Thai Nguyen"
+1712715,TRAN THI HONG,1/5/1986,"Quan Ha Dong, Ha Noi"
+1712716,LAC THI HUE,12/21/1991,"Huyen Van Don, Quang Ninh"
+1712717,NINH THI HONG LAM,6/19/1988,"Huyen Pho Yen, Thai Nguyen"
+1712718,VU PHUONG THAO,10/23/1990,"Huyen Muong Nhe, Dien Bien"
+1712719,DAO THI CHUC,12/18/1985,"Huyen Dong Hy, Thai Nguyen"
+1712720,NGUYEN BICH THUY,9/3/1988,"Huyen Thuan Chau, Son La"
+1712721,NGO THI THU HIEN,4/27/1988,"Huyen Lac Son, Hoa Binh"
+1712722,TRAN THUY NGA,8/28/1986,"Huyen Vo Nhai, Thai Nguyen"
+1712723,NGUYEN THI PHUONG,10/27/1990,"Thanh pho Cam Pha, Quang Ninh"
+1712724,NGUYEN THI HUONG QUYNH,7/9/1990,"Thanh pho Bac Kan, Bac Kan"
+1712725,HOANG TRONG DUC,12/16/1990,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712726,LE THI NGOC,9/4/1988,"Huyen Pho Yen, Thai Nguyen"
+1712727,HUYNH TIEN DUNG,11/4/1990,"Huyen Bac Me, Ha Giang"
+1712728,NONG THI KIM DUYEN,10/28/1990,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712729,SAM HA MY,9/6/1991,"Huyen Pho Yen, Thai Nguyen"
+1712730,PHAM DIEU HANG,9/25/1990,"Huyen Chi Lang, Lang Son"
+1712731,VU THI THANH HA,1/9/1985,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712732,NGUYEN THU HIEN,6/20/1990,"Huyen Na Ri, Bac Kan"
+1712733,NGUYEN THI THANH HUYEN,11/28/1985,"Huyen Phu Binh, Thai Nguyen"
+1712734,TRINH THI NGOC KHANH,1/10/1988,"Huyen Phu Binh, Thai Nguyen"
+1712735,HOANG MINH NGUYET,7/15/1990,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712736,NGUYEN THI HOAI,6/2/1989,"Huyen Dinh Hoa, Thai Nguyen"
+1712737,NGUYEN KIEU NGAN,4/7/1987,"Huyen Hau Loc, Thanh Hoa"
+1712738,LY THI THU HA,12/8/1991,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712739,LUU THANH HUYEN,8/5/1990,"Huyen Muong Cha, Dien Bien"
+1712740,NGUYEN THI BICH NGOC,7/15/1989,"Huyen Da Bac, Hoa Binh"
+1712741,PHAN NHAT THAO,12/13/1988,"Huyen Pho Yen, Thai Nguyen"
+1712742,TA THI HIEN,11/8/1990,"Huyen Dai Tu, Thai Nguyen"
+1712743,TRAN HOAI NAM,10/12/1986,"Thanh pho Yen Bai, Yen Bai"
+1712744,DAO THANH THAO,6/22/1988,"Huyen Cho Moi, Bac Kan"
+1712745,TRAN THU TRA,10/11/1991,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712746,LY THU THAO,4/20/1989,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712747,HOANG ANH DUY,6/15/1990,"huyen Sop Cop, Son La"
+1712748,HOANG THI NGOC ANH,9/4/1987,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712749,NGUYEN THI BICH PHUONG,12/12/1986,"Huyen Bach Thong, Bac Kan"
+1712750,NGUYEN PHUONG THAO,6/16/1989,"Huyen Muong Nhe, Dien Bien"
+1712751,NGO THI THU HUONG,9/26/1987,"Huyen Vo Nhai, Thai Nguyen"
+1712752,DO THUAN THANH,5/28/1986,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712753,HUONG THI MO,1/6/1988,"Huyen Na Ri, Bac Kan"
+1712754,CHU THI NGOC,12/27/1988,"Huyen Chiem Hoa, Tuyen Quang"
+1712755,NGO THI THANH HOAI,11/20/1991,"Huyen Ngan Son, Bac Kan"
+1712756,NGUYEN THI BICH NGOC,1/6/1990,"Huyen Dong Van, Ha Giang"
+1712757,AU THUY TRANG,12/22/1986,"Huyen Muong Khuong, Lao Cai"
+1712758,NGUYEN THI HIEN,6/24/1989,"Huyen Pho Yen, Thai Nguyen"
+1712759,NGO THI LINH,12/15/1985,"Huyen Dong Hy, Thai Nguyen"
+1712760,DUONG NHU QUYNH,4/7/1990,"Huyen Muong Te, Lai Chau"
+1712761,DO THI THU TRANG,2/24/1988,"Huyen Quang Xuong, Thanh Hoa"
+1712762,DO THI THU,1/22/1990,"Huyen Dinh Hoa, Thai Nguyen"
+1712763,PHAM THI DUYEN,11/3/1986,"Huyen Dong Hy, Thai Nguyen"
+1712764,CAO THI HUONG,7/10/1989,"Huyen Vo Nhai, Thai Nguyen"
+1712765,NGUYEN THI MO,5/14/1991,"Thanh pho Yen Bai, Yen Bai"
+1712766,NGUYEN THI HONG NGOC,7/13/1991,"Thi xa Song Cong, Thai Nguyen"
+1712767,NGUYEN THI MAY,4/7/1985,"Huyen Pho Yen, Thai Nguyen"
+1712768,HA THI BE,3/10/1989,"Huyen Dinh Hoa, Thai Nguyen"
+1712769,TRAN CONG SON,7/13/1988,"Huyen Dai Tu, Thai Nguyen"
+1712770,DINH VAN HIEP,11/15/1987,"Huyen Phu Binh, Thai Nguyen"
+1712771,LE HUY HOANG,2/1/1987,"Huyen Pho Yen, Thai Nguyen"
+1712772,NONG THI SLAO,4/23/1989,"Huyen Tan Yen, Bac Giang"
+1712773,NGUYEN THI HUONG,12/1/1990,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712774,NGUYEN PHUONG MAI,11/6/1988,"Huyen Dong Hy, Thai Nguyen"
+1712775,LE THI HIEN,12/1/1989,"Huyen Si Ma Cai, Lao Cai"
+1712776,TRAN THI NHUNG,2/25/1989,"Thi xa Song Cong, Thai Nguyen"
+1712777,NGUYEN THI HUE,6/10/1985,"Thi xa Song Cong, Thai Nguyen"
+1712778,TRAN TIEN DAT,4/8/1990,"Huyen Pho Yen, Thai Nguyen"
+1712779,DUONG THI THU HUONG,8/23/1990,"Huyen Dong Hy, Thai Nguyen"
+1712780,NGUYEN NGOC ANH,2/3/1991,"Huyen Bach Thong, Bac Kan"
+1712781,TRAN NHAT LE,10/17/1991,"Huyen Phu Luong, Thai Nguyen"
+1712782,HA THI LUONG,11/15/1991,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712783,VU THI THOM,5/12/1985,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712784,DAO THU PHUONG,5/28/1990,"Huyen Phu Binh, Thai Nguyen"
+1712785,HOANG THI THUY LINH,2/4/1991,"Huyen Phu Binh, Thai Nguyen"
+1712786,NGO THI VI,8/10/1987,"Huyen Dinh Hoa, Thai Nguyen"
+1712787,PHAM THI TRANG,2/7/1991,"Huyen Dai Tu, Thai Nguyen"
+1712788,NGUYEN THI NHUNG,9/20/1990,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712789,NGUYEN NGOC ANH,9/12/1985,"Thi xa Song Cong, Thai Nguyen"
+1712790,NGUYEN THI MAI QUYNH,12/18/1987,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712791,CHU THI VIET,1/1/1988,"Huyen Phu Luong, Thai Nguyen"
+1712792,DO THI THUY LINH,2/9/1986,"Thi xa Song Cong, Thai Nguyen"
+1712793,NGUYEN THI NGOC,1/12/1987,"Huyen Dong Hy, Thai Nguyen"
+1712794,NGUYEN THI LAN ANH,3/5/1987,"Huyen Vo Nhai, Thai Nguyen"
+1712795,NONG XUAN TRUONG,4/23/1991,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712796,TRAN VAN DUNG,9/12/1986,"Th. pho Tuyen Quang, Tuyen Quang"
+1712797,VU THI HUYEN TRANG,8/10/1986,"Huyen Dong Hy, Thai Nguyen"
+1712798,TRAN THI THU HIEN,8/10/1989,"Huyen Vo Nhai, Thai Nguyen"
+1712799,TRAN THI MAI HOA,9/10/1987,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712800,KHUONG THI LINH TRA,7/5/1988,"Thanh pho Bac Kan, Bac Kan"
+1712801,HOANG PHUONG THANH,8/3/1991,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712802,HOANG THI VAN ANH,8/11/1990,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712803,DO THANH HUYEN,9/5/1988,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712804,NONG THI HAI YEN,2/5/1985,"Thi xa Song Cong, Thai Nguyen"
+1712805,NGUYEN THI HONG NHUNG,6/11/1986,"Thi xa Song Cong, Thai Nguyen"
+1712806,DOAN NGOC ANH,2/13/1986,"Huyen Dinh Hoa, Thai Nguyen"
+1712807,TRAN THI MINH HUYEN,2/15/1989,"Thi xa Song Cong, Thai Nguyen"
+1712808,TRINH VAN PHONG,10/4/1990,"Huyen Dong Hy, Thai Nguyen"
+1712809,VU THI THUY,5/6/1987,"Huyen Phu Luong, Thai Nguyen"
+1712810,DUONG THI THAM,6/28/1985,"Huyen Dai Tu, Thai Nguyen"
+1712811,TRINH THI MAI LINH,12/26/1991,"Huyen Dai Tu, Thai Nguyen"
+1712812,NGUYEN THI HANG,12/24/1988,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712813,NGUYEN DIEP LINH,4/4/1991,"Huyen Phu Binh, Thai Nguyen"
+1712814,NGUYEN VAN DUY,6/11/1989,"Thanh pho Cao Bang, Cao Bang"
+1712815,TRAN THAO NGUYEN,3/14/1986,"Thi xa Song Cong, Thai Nguyen"
+1712816,TRAN THI HAI,10/12/1988,"Huyen Phu Luong, Thai Nguyen"
+1712817,BUI PHUONG NAM,8/18/1989,"Huyen Soc Son, Ha Noi"
+1712818,SA THI MY THU,9/24/1986,"Huyen Thong Nong, Cao Bang"
+1712819,SI GO LONG,6/23/1986,"Huyen Pho Yen, Thai Nguyen"
+1712820,NGUYEN MINH DUNG,12/5/1985,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712821,DANG VAN NIEM,6/27/1990,"Huyen Dai Tu, Thai Nguyen"
+1712822,NONG THI LE,10/20/1989,"Huyen Phong Tho, Lai Chau"
+1712823,DANG THI NGOC LINH,8/4/1990,"Huyen Van Lam, Hung Yen"
+1712824,HOANG TRIEU THAI,2/11/1991,"Thanh pho Bac Kan, Bac Kan"
+1712825,VU MINH HAU,5/28/1987,"Thanh pho Bac Kan, Bac Kan"
+1712826,VU NGUYEN THANG,6/3/1990,"Huyen Dong Anh, Ha Noi"
+1712827,DOAN VAN ANH,5/19/1985,"Huyen Phu Luong, Thai Nguyen"
+1712828,LAO THI MINH ANH,6/18/1989,"Huyen Trung Khanh, Cao Bang"
+1712829,LE VUONG DUY,7/4/1987,"Huyen Xin Man, Ha Giang"
+1712830,LAI THI DAM,2/7/1991,"Huyen Tran Yen, Yen Bai"
+1712831,NGUYEN QUYNH NGA,5/14/1987,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712832,LA NGOC ANH,2/11/1987,"Huyen Phu Luong, Thai Nguyen"
+1712833,VU TRUNG HIEU,4/23/1991,"Huyen Yen Khanh, Ninh Binh"
+1712834,PHAN PHUONG DUNG,2/16/1988,"Huyen Cho Moi, Bac Kan"
+1712835,DIEM THI LOAN,2/27/1989,"Huyen Mu Cang Chai, Yen Bai"
+1712836,NGO QUANG THANG,11/20/1990,"Huyen Cho Moi, Bac Kan"
+1712837,BAN THI THUONG,6/25/1985,"Huyen Phu Luong, Thai Nguyen"
+1712838,LUU TRONG DAO,7/2/1989,"Thanh pho Thai Nguyen, Thai Nguyen"
+1712839,HOANG THI THUONG HIEN,7/21/1991,"Huyen Ham Yen, Tuyen Quang"
+1712840,NGUYEN VAN TUYEN,7/13/1988,"Huyen Ham Yen, Tuyen Quang"
+1712841,LU A THANH,7/14/1990,"Huyen Na Ri, Bac Kan"
+1712842,VU THI HUONG,12/1/1986,"Huyen Dong Hy, Thai Nguyen"
+1712843,TRUONG THI HAU,1/10/1988,"Huyen Dam Ha, Quang Ninh"
+1712844,VU VAN TUAN,7/14/1985,"Huyen Phu Luong, Thai Nguyen"
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
